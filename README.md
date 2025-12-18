@@ -1,2 +1,2 @@
 # lab2python
-![Şəkilin alternativ mətni](file:///C:/Users/Room414/Pictures/Screenshots/Screenshot%202025-12-18%20143722.png)
+![Şəkilin alternativ mətni]("C:\Users\Room414\Downloads\Screenshot 2025-12-18 143722.png")
