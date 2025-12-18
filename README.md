@@ -1,2 +1,2 @@
 # lab2python
- ![ResultOfLab]("C:\Users\Room414\Pictures\Screenshots\Screenshot 2025-12-18 143722.png")
+ ![ResultOfLab]("file:///C:/Users/Room414/Pictures/Screenshots/Screenshot%202025-12-18%20143722.png")
