@@ -1,1 +1,3 @@
-This course uses labs based on the Python programming language. The lab covers basic operations such as opening, reading, and writing files, creating directories, registering the current directory, files, and directories, object time types, and deleting existing files. This knowledge is essential for analyzing log files and system monitoring in the cybersecurity field.
+The lab covers basic operations such as opening, reading,
+and writing files, creating directories, registering the current directory, files, and directories, object time types, and deleting existing files. 
+This knowledge is essential for analyzing log files and system monitoring in the cybersecurity field.
